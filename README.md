@@ -18,4 +18,4 @@ foobar.singularize('phenomena') # returns 'phenomenon'
  Pull request are welcome . For major changes , please open an issue first to discuss what you would like to change 
  please make sure to update tests as appropriate.
 ## Lisence
-[MIT](https://choosealicense.com/licenses/mit/)
+![](https://commonmark.org/help/images/favicon.png)
